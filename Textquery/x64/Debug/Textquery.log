@@ -1,0 +1,6 @@
+﻿  QueryResult.cpp
+  TextQuery_.cpp
+C:\C++\Code\Project\Textquery\Textquery\TextQuery_.cpp(8,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Textquery.cpp
+  正在生成代码...
+  Textquery.vcxproj -> C:\C++\Code\Project\Textquery\x64\Debug\Textquery.exe
